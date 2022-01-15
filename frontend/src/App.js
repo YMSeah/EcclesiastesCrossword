@@ -1,24 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import data from "./artifacts/data.json";
+import CrosswordApp from "./CrosswordApp";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <header>The puzzle below is based on the whole of Ecclesiastes</header>
+      <p>Most or all of the quotes are taken from the NIV.</p>
+      <p>Please press "Reset" before starting.</p>
+      <CrosswordApp data={data} />
+    </>
   );
 }
 
