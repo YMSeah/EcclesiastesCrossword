@@ -40,7 +40,7 @@
     "node": "16.x",
     "npm": "8.x"
   },
-  "resolutions": {
+  "overrides": {
     "mini-css-extract-plugin": "2.4.5"
   }
 }
