@@ -1,5 +1,5 @@
-# EcclesiastesCrossword
-A crossword app to summarize the book of Ecclesiastes
+# Ecclesiastes Crossword Puzzle
+A crossword app for anyone to revise the book of Ecclesiastes
 Written with React
 
 You may try the app at http://ecclesiastes-crossword.herokuapp.com/. Since I didn't pay Heroku, initial page load times are slower due to cold-starts. The webapp is very amateurish and you may be tempted to seek and exploit vulnerabilities. Just remember:
