@@ -49,7 +49,7 @@
       "col": 12
     },
     "16": {
-      "clue": "\"____ makes one wise man more powerful than 10 rules in a city.\" (Ecc 6:10)",
+      "clue": "\"____ makes one wise man more powerful than 10 rules in a city.\" (Ecc 7:19)",
       "answer": "WISDOM",
       "row": 15,
       "col": 3
@@ -59,11 +59,17 @@
       "answer": "VOW",
       "row": 18,
       "col": 11
+    },
+    "18": {
+      "clue": "\"Remember your Creator in the days of your ____ ...\" (Ecc 12:1)",
+      "answer": "YOUTH",
+      "row": 10,
+      "col": 0
     }
   },
   "down": {
     "1": {
-      "clue": "\"There is a ____ for everything...\" (Ecc 2:13)",
+      "clue": "\"There is a ____ for everything...\" (Ecc 3:1)",
       "answer": "TIME",
       "row": 0,
       "col": 16
